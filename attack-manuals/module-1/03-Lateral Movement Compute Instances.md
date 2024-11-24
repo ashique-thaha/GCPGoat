@@ -2,6 +2,7 @@
 
 We will find the credential for a low privileged virtual machine instance from the dev bucket. Then access other high privileged compute instances using the low privileged machine.
 
+
 # Solution
 
 **Step 1:** List out the content of the dev bucket, you compromised from the misconfigured storage bucket.
